@@ -11,9 +11,11 @@
 
 `pip install -r requirements.txt`
 
+### RUN ###
+
 `python news.py`
  
-or
+OR
  
 `python news-dark.py`
 
