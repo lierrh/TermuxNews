@@ -11,5 +11,5 @@
 
 `pip install -r requirements.txt`
 
-`python news.py`
+`python news.py` or `python news-dark.py`
 
