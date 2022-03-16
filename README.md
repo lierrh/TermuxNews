@@ -13,9 +13,9 @@
 
 ### RUN ###
 
-`python news.py`
+`python news.py` (light mode)
  
 OR
  
-`python news-dark.py`
+`python news-dark.py` (dark mode)
 
